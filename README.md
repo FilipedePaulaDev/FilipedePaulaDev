@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Filipe de Paula](https://www.linkedin.com/in/filipe-de-paula/) 👋
 
 <!--
 **FilipedePaulaDev/FilipedePaulaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
