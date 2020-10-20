@@ -5,7 +5,6 @@
           📫 *Como você pode me encontrar? É fácil, basta clicar em um dos links abaixo:*\
           \
 [![Linkedin: Filipe de Paula](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-de-paula/)
-[![instagram: Filipe de Paula](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/filipepsilva/)
 [![gmail: Filipe de Paula](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:filipedepaula.ads@gmail.com)
 
 
