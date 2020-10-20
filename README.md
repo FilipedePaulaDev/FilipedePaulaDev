@@ -8,6 +8,12 @@
 [![gmail: Filipe de Paula](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:filipedepaula.ads@gmail.com)
 \
 \
+<a align="center" href="https://FilipedePaulaDev.github.io">
+      <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=FilipedePaulaDev&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipedePaulaDev&layout=compact&theme=tokyonight" alt="languages" height="165">
+      </p>
+ </a>
 \
 \
 \
