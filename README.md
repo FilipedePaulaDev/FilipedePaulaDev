@@ -1,4 +1,11 @@
 ### Hi there, I'm [Filipe de Paula](https://www.linkedin.com/in/filipe-de-paula/) 👋
+![GitHub watchers](https://img.shields.io/github/watchers/FilipedePaulaDev/FilipedePaulaDev?style=social)
+![GitHub followers](https://img.shields.io/github/followers/FilipedePaulaDev?style=social)
+
+              📫 *Como você pode me encontrar? É fácil, basta clicar em um dos links abaixo:*
+
+
+
 
 <!--
 **FilipedePaulaDev/FilipedePaulaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
