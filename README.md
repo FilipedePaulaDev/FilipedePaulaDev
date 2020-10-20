@@ -6,10 +6,12 @@
           \
 [![Linkedin: Filipe de Paula](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-de-paula/)
 [![gmail: Filipe de Paula](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:filipedepaula.ads@gmail.com)
-
-
-
-
+\
+\
+\
+\
+\
+[![HitCount](http://hits.dwyl.com/FilipedePaulaDev/FilipedePaulaDev.svg)](http://hits.dwyl.com/FilipedePaulaDev/FilipedePaulaDev)
 <!--
 **FilipedePaulaDev/FilipedePaulaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
