@@ -2,7 +2,9 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/FilipedePaulaDev/FilipedePaulaDev?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FilipedePaulaDev?style=social)
 \
+\
     📫 Como você pode me encontrar? É fácil, basta clicar em um dos links abaixo:
+\
 \
 [![Linkedin: Filipe de Paula](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-de-paula/)
 [![gmail: Filipe de Paula](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:filipedepaula.ads@gmail.com)
