@@ -18,7 +18,6 @@
  </a>\
  \
  \
- [![HitCount](http://hits.dwyl.com/FilipedePaulaDev/FilipedePaulaDev.svg)](http://hits.dwyl.com/FilipedePaulaDev/FilipedePaulaDev)
  
 <!--
 **FilipedePaulaDev/FilipedePaulaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
